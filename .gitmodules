@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mobr"]
-	path = mobr
-	url = https://github.com/mobiodiv/mobr
 [submodule "mobsim"]
 	path = mobsim
 	url = https://github.com/mobiodiv/mobsim
